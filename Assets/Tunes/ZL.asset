@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e636bba2cd97a8746ad071e5e12f3463, type: 3}
+  m_Name: ZL
+  m_EditorClassIdentifier: 
+  tempo: 1
+  notes:
+  - key: 6
+    delay: 0.4
+  - key: 9
+    delay: 0.8
+  - key: 4
+    delay: 0.4
+  - key: 2
+    delay: 0.8
+  - key: 4
+    delay: 0.2
+  - key: 6
+    delay: 0.2
+  - key: 9
+    delay: 0.8
+  - key: 4
+    delay: 0.4
+  - key: 2
+    delay: 0.8
+  - key: 4
+    delay: 0.2
+  - key: 6
+    delay: 0.2
+  - key: 9
+    delay: 0.8
+  - key: 16
+    delay: 0.4
+  - key: 14
+    delay: 0.8
+  - key: 9
+    delay: 0.4
+  - key: 7
+    delay: 0.8
+  - key: 6
+    delay: 0.2
+  - key: 4
+    delay: 0.2
